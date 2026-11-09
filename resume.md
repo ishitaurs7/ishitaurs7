@@ -1,5 +1,6 @@
 Ishita Urs 
 
 High School Diploma - Hopkinton High School
-BS in Computer Science & Business Administration, 
-Expected Graduation Date in 5/30
+BS in Computer Science & Business Administration
+
+Expected Graduation Date 5/30
